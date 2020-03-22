@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (LogCleaner.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.c
+  LogServiceCrash.c
+LogServiceCrash.c(17): warning C4013: 'ElfClearEventLogFileW' undefined; assuming extern returning int
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LogCleaner.vcxproj -> C:\github\LogServiceCrash\x64\Release\LogServiceCrash.exe
+  LogCleaner.vcxproj -> C:\github\LogServiceCrash\x64\Release\LogServiceCrash.pdb (Full PDB)
